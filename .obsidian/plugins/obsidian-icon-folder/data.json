@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiTypescript",
+      "SiJavascript",
+      "FasFolder",
+      "FabJs",
+      "SiDocker"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Docker/01.-Docker.md": {
+    "iconName": "SiDocker",
+    "inheritanceIcon": "SiDocker"
+  },
+  "Docker/02.-Docker CLI.md": "SiDocker",
+  "Docker/03.-Docker File.md": "SiDocker",
+  "Testing/Testing en JavaScript.md": "FabJs",
+  "Docker": "SiDocker",
+  "Docker/assets": "FasFolder",
+  "ECMAScript": "SiJavascript",
+  "ECMAScript/assets": "FasFolder",
+  "ECMAScript/ECMAScript6.md": "FabJs",
+  "Typescript": "SiTypescript",
+  "ECMAScript/ECMAScript 8.md": "FabJs"
+}
