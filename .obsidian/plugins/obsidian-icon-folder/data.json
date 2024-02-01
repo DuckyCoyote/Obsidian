@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasSchoolCircleCheck",
       "SiTypescript",
       "SiJavascript",
       "FasFolder",
-      "FabJs",
-      "SiDocker"
+      "FabJs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "ECMAScript/assets": "FasFolder",
   "ECMAScript/ECMAScript6.md": "FabJs",
   "Typescript": "SiTypescript",
-  "ECMAScript/ECMAScript 8.md": "FabJs"
+  "ECMAScript/ECMAScript 8.md": "FabJs",
+  "Materias Deudadas.md": "FasSchoolCircleCheck"
 }

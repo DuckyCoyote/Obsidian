@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d328b49c3fa9d068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materias Deudadas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0fab29e31919dbdb",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Tipos Avanzados.md",
+                "file": "Materias Deudadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/Tipos Avanzados.md",
+                "file": "Materias Deudadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/Tipos Avanzados.md"
+                "file": "Materias Deudadas.md"
               }
             }
           }
@@ -147,10 +161,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d1c9d170ccfb2763",
+  "active": "d328b49c3fa9d068",
   "lastOpenFiles": [
-    "Typescript/Typos Básicos.md",
     "Typescript/Tipos Avanzados.md",
+    "Materias Deudadas.md",
+    "Typescript/Typos Básicos.md",
     "ECMAScript/ECMAScript6.md",
     "ECMAScript/ECMAScript 8.md",
     "Typescript",
