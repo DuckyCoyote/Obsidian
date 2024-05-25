@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCisco",
+      "FasNetworkWired",
+      "SiMysql",
       "FasSchoolCircleCheck",
-      "SiTypescript",
-      "SiJavascript",
-      "FasFolder",
-      "FabJs"
+      "SiTypescript"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,8 @@
   "ECMAScript/ECMAScript6.md": "FabJs",
   "Typescript": "SiTypescript",
   "ECMAScript/ECMAScript 8.md": "FabJs",
-  "Materias Deudadas.md": "FasSchoolCircleCheck"
+  "Materias Deudadas.md": "FasSchoolCircleCheck",
+  "MySQL": "SiMysql",
+  "Redes": "FasNetworkWired",
+  "Redes/TIpos de Redes. Redes LAN , WAN y MAN.md": "SiCisco"
 }

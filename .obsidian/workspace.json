@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "94a71f701c5df256",
+        "id": "aaf01338aac3bbf7",
         "type": "tabs",
         "children": [
           {
-            "id": "d1c9d170ccfb2763",
+            "id": "0cc8c0589d600ef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Tipos Avanzados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d328b49c3fa9d068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materias Deudadas.md",
+                "file": "Redes/TIpos de Redes. Redes LAN , WAN y MAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0fab29e31919dbdb",
@@ -99,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias Deudadas.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Redes/TIpos de Redes. Redes LAN , WAN y MAN.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materias Deudadas.md",
+                "file": "Redes/TIpos de Redes. Redes LAN , WAN y MAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materias Deudadas.md"
+                "file": "Redes/TIpos de Redes. Redes LAN , WAN y MAN.md"
               }
             }
           }
@@ -152,30 +138,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d328b49c3fa9d068",
+  "active": "0cc8c0589d600ef1",
   "lastOpenFiles": [
+    "Redes/assets/Pasted image 20240524191701.png",
+    "Redes/assets/Pasted image 20240524191331.png",
+    "Redes/assets/Pasted image 20240524191252.png",
+    "Redes/assets/Pasted image 20240524185012.png",
+    "Redes/TIpos de Redes. Redes LAN , WAN y MAN.md",
+    "Redes/assets/Pasted image 20240524183109.png",
+    "Redes/assets",
+    "MySQL/Principios de MySQL.md",
+    "Redes",
+    "MySQL/assets/Pasted image 20240523182507.png",
+    "MySQL/assets/Pasted image 20240523182443.png",
+    "MySQL/assets/Pasted image 20240523182424.png",
+    "MySQL/assets/Pasted image 20240523175125.png",
+    "MySQL/assets",
     "Typescript/Tipos Avanzados.md",
+    "MySQL",
+    "Docker/03.-Docker File.md",
+    "Docker/02.-Docker CLI.md",
+    "Docker/01.-Docker.md",
     "Materias Deudadas.md",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
     "Typescript/Typos Básicos.md",
+    "Docker/assets/Container.png",
     "ECMAScript/ECMAScript6.md",
     "ECMAScript/ECMAScript 8.md",
     "Typescript",
     "ECMAScript/assets/Pasted image 20240110154339.png",
-    "ECMAScript/assets/Pasted image 20240110151224.png",
     "ECMAScript/assets",
-    "Docker/02.-Docker CLI.md",
     "ECMAScript",
-    "Docker/03.-Docker File.md",
-    "Docker/01.-Docker.md",
     "Testing/Testing en JavaScript.md"
   ]
 }

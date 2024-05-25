@@ -1,10 +1,10 @@
-- [ ] Estructuras de Datos
+- [x] Estructuras de Datos 
 - [ ] Metodos Numericos
 - [ ] Ecuaciones Diferenciales
 
+- [ ] Redes de Computadoras
 - [ ] Matematicas Discretas
 - [ ] Dispositivos Electronicos
-- [ ] Redes de Computadoras
 
 - [ ] Diseño de Sistemas Digitales
 - [ ] Electricidad y Magnetismo
