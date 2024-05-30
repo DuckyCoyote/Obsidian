@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiVim",
       "SiCisco",
       "FasNetworkWired",
       "SiMysql",
-      "FasSchoolCircleCheck",
-      "SiTypescript"
+      "FasSchoolCircleCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,7 @@
   "Materias Deudadas.md": "FasSchoolCircleCheck",
   "MySQL": "SiMysql",
   "Redes": "FasNetworkWired",
-  "Redes/TIpos de Redes. Redes LAN , WAN y MAN.md": "SiCisco"
+  "Vim": "SiVim",
+  "Redes/2.- Jerarrquias de protocolos.md": "FasNetworkWired",
+  "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md": "SiCisco"
 }
