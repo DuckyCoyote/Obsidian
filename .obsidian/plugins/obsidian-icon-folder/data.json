@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbAirplay",
+      "FasTransgender",
+      "FabOsi",
       "SiVim",
-      "SiCisco",
-      "FasNetworkWired",
-      "SiMysql",
-      "FasSchoolCircleCheck"
+      "SiCisco"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,7 @@
   "Vim": "SiVim",
   "Redes/2.- Jerarrquias de protocolos.md": "FasNetworkWired",
   "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md": "SiCisco",
-  "Redes/Aspectos de diseño de capas.md": "FasNetworkWired"
+  "Redes/5.- Model TCP-IP.md": "IbAirplay",
+  "Redes/4.- Modelo OSI.md": "FabOsi",
+  "Redes/3.- Aspectos de diseño de capas.md": "FasTransgender"
 }

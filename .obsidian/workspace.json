@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/2.- Jerarrquias de protocolos.md",
+                "file": "Redes/5.- Model TCP-IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/2.- Jerarrquias de protocolos.md",
+                "file": "Redes/5.- Model TCP-IP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/2.- Jerarrquias de protocolos.md",
+                "file": "Redes/5.- Model TCP-IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,47 +125,49 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/2.- Jerarrquias de protocolos.md"
+                "file": "Redes/5.- Model TCP-IP.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "canvas:Crear nuevo lienzo": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "34478d2f824818be",
   "lastOpenFiles": [
-    "Redes/Aspectos de diseño de capas.md",
-    "Redes/Modelo OSI.md",
-    "Redes/assets/Untitled",
-    "Redes/assets/Screenshot_20240603_182045.png",
-    "Redes/assets/Screenshot_20240603_181008.png",
-    "Redes/assets/Screenshot_20240603_180227.png",
-    "Redes/assets/Screenshot_20240603_175118.png",
+    "Redes/assets/Pasted image 20240606020319.png",
+    "Redes/assets/Pasted image 20240606015937.png",
+    "Redes/assets/Pasted image 20240606015918.png",
+    "Redes/4.- Modelo OSI.md",
+    "Redes/assets/Pasted image 20240606015559.png",
+    "Redes/assets/Pasted image 20240606015509.png",
+    "Redes/assets/Pasted image 20240606015434.png",
+    "Redes/assets/Pasted image 20240606015343.png",
+    "Redes/assets/Pasted image 20240606015243.png",
+    "Redes/assets/Pasted image 20240606015233.png",
+    "Redes/assets/Pasted image 20240606015217.png",
+    "Redes/5.- Model TCP-IP.md",
+    "Redes/3.- Aspectos de diseño de capas.md",
+    "Redes/assets/Screenshot_20240606_010807.png",
     "Vim/Data Sheet.md",
+    "Materias Deudadas.md",
     "Redes/2.- Jerarrquias de protocolos.md",
-    "Redes/assets/Pasted image 20240530024443.png",
     "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md",
-    "Redes/assets/Pasted image 20240530022653.png",
     "Vim",
-    "Redes/assets/Pasted image 20240524191701.png",
-    "Redes/assets/Pasted image 20240524191331.png",
-    "Redes/assets/Pasted image 20240524191252.png",
-    "Redes/assets/Pasted image 20240524185012.png",
     "Redes/assets",
     "MySQL/Principios de MySQL.md",
     "Redes",
@@ -175,7 +177,6 @@
     "Docker/03.-Docker File.md",
     "Docker/02.-Docker CLI.md",
     "Docker/01.-Docker.md",
-    "Materias Deudadas.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Typescript/Typos Básicos.md",
