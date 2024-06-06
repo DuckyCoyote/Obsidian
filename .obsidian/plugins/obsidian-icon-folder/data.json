@@ -45,5 +45,6 @@
   "Redes": "FasNetworkWired",
   "Vim": "SiVim",
   "Redes/2.- Jerarrquias de protocolos.md": "FasNetworkWired",
-  "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md": "SiCisco"
+  "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md": "SiCisco",
+  "Redes/Aspectos de diseño de capas.md": "FasNetworkWired"
 }
