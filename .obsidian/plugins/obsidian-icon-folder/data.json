@@ -1,19 +1,34 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbAirplay",
-      "FasTransgender",
-      "FabOsi",
-      "SiVim",
-      "SiCisco"
+      "IbPhotoAndVideo",
+      "FasBrain",
+      "FasNetworkWired",
+      "SiHackthebox",
+      "IbAirplay"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "FasBrain",
+        "rule": "IA\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "SiDocker",
+        "rule": "Docker/01.-Docker.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -24,15 +39,16 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
-  },
-  "Docker/01.-Docker.md": {
-    "iconName": "SiDocker",
-    "inheritanceIcon": "SiDocker"
+    "iconsInNotesEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
   },
   "Docker/02.-Docker CLI.md": "SiDocker",
   "Docker/03.-Docker File.md": "SiDocker",
-  "Testing/Testing en JavaScript.md": "FabJs",
   "Docker": "SiDocker",
   "Docker/assets": "FasFolder",
   "ECMAScript": "SiJavascript",
@@ -48,5 +64,11 @@
   "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md": "SiCisco",
   "Redes/5.- Model TCP-IP.md": "IbAirplay",
   "Redes/4.- Modelo OSI.md": "FabOsi",
-  "Redes/3.- Aspectos de diseño de capas.md": "FasTransgender"
+  "Redes/3.- Aspectos de diseño de capas.md": "FasTransgender",
+  "Seguridad": "SiHackthebox",
+  "Seguridad/Pentesting/1.- Reconocimiento y obtencion de informacion.md": "FasNetworkWired",
+  "Testing/Testing en JavaScript.md": "FabJs",
+  "Docker/01.-Docker.md": "SiDocker",
+  "IA": "FasBrain",
+  "IA/assets": "IbPhotoAndVideo"
 }

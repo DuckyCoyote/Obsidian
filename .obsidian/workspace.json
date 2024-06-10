@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77d86490bb53a61b",
+        "id": "b30da0c3cdae8600",
         "type": "tabs",
         "children": [
           {
-            "id": "34478d2f824818be",
+            "id": "5d7f76f7061a9619",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/5.- Model TCP-IP.md",
+                "file": "IA/1.- Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/5.- Model TCP-IP.md",
+                "file": "IA/1.- Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/5.- Model TCP-IP.md",
+                "file": "IA/1.- Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/5.- Model TCP-IP.md"
+                "file": "IA/1.- Machine Learning.md"
               }
             }
           }
@@ -147,8 +147,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "34478d2f824818be",
+  "active": "5d7f76f7061a9619",
   "lastOpenFiles": [
+    "IA/assets/Pasted image 20240610003545.png",
+    "IA/assets",
+    "IA/1.- Machine Learning.md",
+    "Seguridad/Pentesting/2.- Escaneo (Scanning).md",
+    "IA",
+    "Seguridad/Pentesting/1.- Reconocimiento y obtencion de informacion.md",
+    "Docker/03.-Docker File.md",
+    "Docker/02.-Docker CLI.md",
+    "Docker/01.-Docker.md",
+    "Seguridad/Sin título.md",
+    "Materias Deudadas.md",
+    "Seguridad/Pentesting",
+    "Seguridad",
+    "Redes/5.- Model TCP-IP.md",
     "Redes/assets/Pasted image 20240606020319.png",
     "Redes/assets/Pasted image 20240606015937.png",
     "Redes/assets/Pasted image 20240606015918.png",
@@ -160,11 +174,8 @@
     "Redes/assets/Pasted image 20240606015243.png",
     "Redes/assets/Pasted image 20240606015233.png",
     "Redes/assets/Pasted image 20240606015217.png",
-    "Redes/5.- Model TCP-IP.md",
     "Redes/3.- Aspectos de diseño de capas.md",
-    "Redes/assets/Screenshot_20240606_010807.png",
     "Vim/Data Sheet.md",
-    "Materias Deudadas.md",
     "Redes/2.- Jerarrquias de protocolos.md",
     "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md",
     "Vim",
@@ -174,17 +185,12 @@
     "MySQL/assets",
     "Typescript/Tipos Avanzados.md",
     "MySQL",
-    "Docker/03.-Docker File.md",
-    "Docker/02.-Docker CLI.md",
-    "Docker/01.-Docker.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Typescript/Typos Básicos.md",
     "ECMAScript/ECMAScript6.md",
     "ECMAScript/ECMAScript 8.md",
     "Typescript",
-    "ECMAScript/assets",
-    "ECMAScript",
     "Testing/Testing en JavaScript.md"
   ]
 }
