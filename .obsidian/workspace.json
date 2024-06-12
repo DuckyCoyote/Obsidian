@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91eb4eecaec732cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materias Deudadas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA/1.- Machine Learning.md",
+                "file": "Materias Deudadas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA/1.- Machine Learning.md",
+                "file": "Materias Deudadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA/1.- Machine Learning.md"
+                "file": "Materias Deudadas.md"
               }
             }
           }
@@ -147,7 +160,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5d7f76f7061a9619",
+  "active": "91eb4eecaec732cd",
   "lastOpenFiles": [
     "IA/assets/Pasted image 20240610003545.png",
     "IA/assets",
