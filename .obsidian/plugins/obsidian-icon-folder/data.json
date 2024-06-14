@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗄",
       "IbPhotoAndVideo",
       "FasBrain",
       "FasNetworkWired",
-      "SiHackthebox",
-      "IbAirplay"
+      "SiHackthebox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -60,7 +60,6 @@
   "MySQL": "SiMysql",
   "Redes": "FasNetworkWired",
   "Vim": "SiVim",
-  "Redes/2.- Jerarrquias de protocolos.md": "FasNetworkWired",
   "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md": "SiCisco",
   "Redes/5.- Model TCP-IP.md": "IbAirplay",
   "Redes/4.- Modelo OSI.md": "FabOsi",
@@ -70,5 +69,7 @@
   "Testing/Testing en JavaScript.md": "FabJs",
   "Docker/01.-Docker.md": "SiDocker",
   "IA": "FasBrain",
-  "IA/assets": "IbPhotoAndVideo"
+  "IA/assets": "IbPhotoAndVideo",
+  "Redes/0.- Extraordinario Redes de Computadoras 1.md": "🗄",
+  "Redes/2.- Jerarquias de protocolos.md": "FasNetworkWired"
 }

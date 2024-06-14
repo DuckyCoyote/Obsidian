@@ -1,9 +1,16 @@
 - [x] Estructuras de Datos 
+- [x] Administracion de Proyectos
 ### Segunda vuelta 8vo
 - [ ] Ecuaciones Diferenciales
 - [ ] Redes de Computadoras
 - [ ] Matematicas Discretas
 - [ ] Dispositivos Electronicos
+### 9no semestre
+- [ ] Microcontroladores
+- [ ] Habilidades Directivas
+- [ ] Inteligencia Artificial
+- [ ] Seguridad Informatica
+- [ ] Optativa 5
 ### Primera vuelta 9no
 - [ ] Diseño de Sistemas Digitales
 - [ ] Electricidad y Magnetismo
@@ -12,17 +19,10 @@
 - [ ] Redes de Computadoras 2
 - [ ] Emprendimiento 1
 - [ ] Emprendimiento 2
-### 9no semestre
-- [ ] Microcontroladores
-- [ ] Habilidades Directivas
-- [ ] Inteligencia Artificial
-- [ ] Seguridad Informatica
-- [ ] Optativa 5
 
 - [ ] Emprendimiento 3
-- [ ] Administracion de Proyectos
-
 - [ ] Optativa 1
+
 - [ ] Optativa 2
 - [ ] Optativa 3
 - [ ] Optativa 4

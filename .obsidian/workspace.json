@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA/1.- Machine Learning.md",
+                "file": "Redes/5.- Model TCP-IP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91eb4eecaec732cd",
+            "id": "7455a449396df5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materias Deudadas.md",
+                "file": "Docker/02.-Docker CLI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materias Deudadas.md",
+                "file": "Redes/5.- Model TCP-IP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materias Deudadas.md",
+                "file": "Redes/5.- Model TCP-IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materias Deudadas.md"
+                "file": "Redes/5.- Model TCP-IP.md"
               }
             }
           }
@@ -160,37 +159,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "91eb4eecaec732cd",
+  "active": "5d7f76f7061a9619",
   "lastOpenFiles": [
+    "Redes/assets/Pasted image 20240614041124.png",
+    "Redes/assets/Pasted image 20240614041059.png",
+    "Redes/assets/Pasted image 20240614041023.png",
+    "Redes/0.- Extraordinario Redes de Computadoras 1.md",
+    "Redes/2.- Jerarquias de protocolos.md",
+    "Redes/5.- Model TCP-IP.md",
+    "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md",
+    "Redes/assets/Pasted image 20240614033929.png",
+    "Redes/assets/Pasted image 20240614033749.png",
+    "Docker/02.-Docker CLI.md",
+    "Redes/assets/Pasted image 20240614033007.png",
+    "Redes/assets/Pasted image 20240614032801.png",
+    "Redes/assets/Pasted image 20240614032744.png",
+    "Redes/assets/Pasted image 20240614032730.png",
+    "Redes/assets/Pasted image 20240614032713.png",
+    "IA/1.- Machine Learning.md",
+    "Redes/Sin título.md",
+    "Materias Deudadas.md",
+    "Vim/Data Sheet.md",
     "IA/assets/Pasted image 20240610003545.png",
     "IA/assets",
-    "IA/1.- Machine Learning.md",
     "Seguridad/Pentesting/2.- Escaneo (Scanning).md",
     "IA",
     "Seguridad/Pentesting/1.- Reconocimiento y obtencion de informacion.md",
     "Docker/03.-Docker File.md",
-    "Docker/02.-Docker CLI.md",
     "Docker/01.-Docker.md",
     "Seguridad/Sin título.md",
-    "Materias Deudadas.md",
     "Seguridad/Pentesting",
     "Seguridad",
-    "Redes/5.- Model TCP-IP.md",
-    "Redes/assets/Pasted image 20240606020319.png",
-    "Redes/assets/Pasted image 20240606015937.png",
-    "Redes/assets/Pasted image 20240606015918.png",
     "Redes/4.- Modelo OSI.md",
-    "Redes/assets/Pasted image 20240606015559.png",
-    "Redes/assets/Pasted image 20240606015509.png",
-    "Redes/assets/Pasted image 20240606015434.png",
-    "Redes/assets/Pasted image 20240606015343.png",
-    "Redes/assets/Pasted image 20240606015243.png",
-    "Redes/assets/Pasted image 20240606015233.png",
-    "Redes/assets/Pasted image 20240606015217.png",
     "Redes/3.- Aspectos de diseño de capas.md",
-    "Vim/Data Sheet.md",
-    "Redes/2.- Jerarrquias de protocolos.md",
-    "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md",
     "Vim",
     "Redes/assets",
     "MySQL/Principios de MySQL.md",
