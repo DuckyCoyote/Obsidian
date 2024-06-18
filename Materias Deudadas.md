@@ -1,10 +1,10 @@
 - [x] Estructuras de Datos 
 - [x] Administracion de Proyectos
 ### Segunda vuelta 8vo
-- [ ] Ecuaciones Diferenciales
-- [ ] Redes de Computadoras
+- [x] Ecuaciones Diferenciales
+- [x] Redes de Computadoras
 - [ ] Matematicas Discretas
-- [ ] Dispositivos Electronicos
+- [x] Dispositivos Electronicos
 ### 9no semestre
 - [ ] Microcontroladores
 - [ ] Habilidades Directivas

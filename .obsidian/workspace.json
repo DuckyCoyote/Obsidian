@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/5.- Model TCP-IP.md",
+                "file": "Redes/0.- Extraordinario Redes de Computadoras 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a53bfb0206026285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/2.- Jerarquias de protocolos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4ecb7f178833925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materias Deudadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/5.- Model TCP-IP.md",
+                "file": "Materias Deudadas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/5.- Model TCP-IP.md",
+                "file": "Materias Deudadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/5.- Model TCP-IP.md"
+                "file": "Materias Deudadas.md"
               }
             }
           }
@@ -159,15 +184,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5d7f76f7061a9619",
+  "active": "d4ecb7f178833925",
   "lastOpenFiles": [
+    "Redes/5.- Model TCP-IP.md",
+    "Redes/0.- Extraordinario Redes de Computadoras 1.md",
+    "Redes/2.- Jerarquias de protocolos.md",
+    "Materias Deudadas.md",
+    "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md",
     "Redes/assets/Pasted image 20240614041124.png",
     "Redes/assets/Pasted image 20240614041059.png",
     "Redes/assets/Pasted image 20240614041023.png",
-    "Redes/0.- Extraordinario Redes de Computadoras 1.md",
-    "Redes/2.- Jerarquias de protocolos.md",
-    "Redes/5.- Model TCP-IP.md",
-    "Redes/1.- TIpos de Redes. Redes LAN , WAN y MAN.md",
     "Redes/assets/Pasted image 20240614033929.png",
     "Redes/assets/Pasted image 20240614033749.png",
     "Docker/02.-Docker CLI.md",
@@ -178,9 +204,7 @@
     "Redes/assets/Pasted image 20240614032713.png",
     "IA/1.- Machine Learning.md",
     "Redes/Sin título.md",
-    "Materias Deudadas.md",
     "Vim/Data Sheet.md",
-    "IA/assets/Pasted image 20240610003545.png",
     "IA/assets",
     "Seguridad/Pentesting/2.- Escaneo (Scanning).md",
     "IA",
